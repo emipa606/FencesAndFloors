@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <Manifest>
-  <identifier>FencesAndFloors(Continued)</identifier>
-  <version>1.0.3.0</version>
+  <identifier>FencesAndFloors</identifier>
+  <version>1.0.4.0</version>
   <dependencies />
   <incompatibleWith />
   <loadBefore />
@@ -9,4 +9,6 @@
   <manifestUri>https://raw.githubusercontent.com/emipa606/FencesAndFloors/master/About/Manifest.xml</manifestUri>
   <downloadUri>https://github.com/emipa606/FencesAndFloors/releases</downloadUri>
 </Manifest>
+
+
 

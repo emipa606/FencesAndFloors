@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <ModMetaData>
 	<name>Fences And Floors (Continued)</name>
 	<packageId>Mlie.FencesAndFloors</packageId>
@@ -9,6 +9,8 @@
 		<li>1.1</li>
 	</supportedVersions>
 	<modDependencies />
-	<loadAfter />	
+	<loadAfter>
+		<li>Nif.VanillaFences</li>
+	</loadAfter>
 	<description>Adds new flooring options and fences! </description>
 </ModMetaData>
