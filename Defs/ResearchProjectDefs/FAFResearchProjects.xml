@@ -1,6 +1,5 @@
-﻿<?xml version="1.0" encoding="utf-8" ?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <Defs>
-
   <ResearchProjectDef>
     <defName>FutureFlooring</defName>
     <label>Reactive Flooring</label>
@@ -15,5 +14,4 @@
       <li>MultiAnalyzer</li>
     </requiredResearchFacilities>
   </ResearchProjectDef>
-
 </Defs>
