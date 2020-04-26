@@ -1,53 +1,53 @@
 ﻿<?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <LanguageData>
-  <WoodFence.label>å›´æ </WoodFence.label>
-  <WoodFence.description>ä¸€ç§è€å¼çš„æœ¨å›´æ ã€‚</WoodFence.description>
-  <WoodFence_Blueprint.label>fence (è“å›¾)</WoodFence_Blueprint.label>
-  <WoodFence_Frame.label>fence (å»ºç­‘)</WoodFence_Frame.label>
-  <WoodFence_Frame.description>ä¸€ç§è€å¼çš„æœ¨å›´æ ã€‚</WoodFence_Frame.description>
-  <WoodFenceGate.label>å›´æ é—¨</WoodFenceGate.label>
-  <WoodFenceGate.description>A gate made of wooden beams.</WoodFenceGate.description>
-  <WoodFenceGate_Blueprint.label>å›´æ é—¨ (è“å›¾)</WoodFenceGate_Blueprint.label>
-  <WoodFenceGate_Frame.label>å›´æ é—¨ (å»ºç­‘)</WoodFenceGate_Frame.label>
-  <WoodFenceGate_Frame.description>A gate made of wooden beams.</WoodFenceGate_Frame.description>
-  <WoodFenceGateB.label>å›´æ é—¨</WoodFenceGateB.label>
-  <WoodFenceGateB.description>ç”±æœ¨æ¢æ‰€åˆ¶æˆçš„é—¨ã€‚</WoodFenceGateB.description>
-  <WoodFenceGateB_Blueprint.label>å›´æ é—¨ (è“å›¾)</WoodFenceGateB_Blueprint.label>
-  <WoodFenceGateB_Frame.label>å›´æ é—¨ (å»ºç­‘)</WoodFenceGateB_Frame.label>
-  <WoodFenceGateB_Frame.description>ç”±æœ¨æ¢æ‰€åˆ¶æˆçš„é—¨ã€‚</WoodFenceGateB_Frame.description>
-  <ChainFence.label>é“¾æ¡å›´æ </ChainFence.label>
-  <ChainFence.description>ç”±äº¤ç»‡é’¢ä¸åˆ¶æˆçš„åšå›ºçš„é’¢åˆ¶å›´æ ã€‚</ChainFence.description>
-  <ChainFence_Blueprint.label>é“¾æ¡å›´æ  (è“å›¾)</ChainFence_Blueprint.label>
-  <ChainFence_Frame.label>é“¾æ¡å›´æ  (å»ºç­‘)</ChainFence_Frame.label>
-  <ChainFence_Frame.description>ç”±äº¤ç»‡é’¢ä¸åˆ¶æˆçš„åšå›ºçš„é’¢åˆ¶å›´æ ã€‚</ChainFence_Frame.description>
-  <ChainFenceGate.label>é“¾çŽ¯å›´æ é—¨</ChainFenceGate.label>
-  <ChainFenceGate.description>ç”±äº¤ç»‡é’¢ä¸åˆ¶æˆçš„åšå›ºçš„é’¢åˆ¶å›´æ é—¨ã€‚</ChainFenceGate.description>
-  <ChainFenceGate_Blueprint.label>é“¾çŽ¯å›´æ é—¨ (è“å›¾)</ChainFenceGate_Blueprint.label>
-  <ChainFenceGate_Frame.label>é“¾çŽ¯å›´æ é—¨ (å»ºç­‘)</ChainFenceGate_Frame.label>
-  <ChainFenceGate_Frame.description>ç”±äº¤ç»‡é’¢ä¸åˆ¶æˆçš„åšå›ºçš„é’¢åˆ¶å›´æ é—¨ã€‚</ChainFenceGate_Frame.description>
-  <ChainFenceGateB.label>é“¾çŽ¯å›´æ é—¨</ChainFenceGateB.label>
-  <ChainFenceGateB.description>ç”±äº¤ç»‡é’¢ä¸åˆ¶æˆçš„åšå›ºçš„é’¢åˆ¶å›´æ é—¨ã€‚</ChainFenceGateB.description>
-  <ChainFenceGateB_Blueprint.label>é“¾çŽ¯å›´æ é—¨(è“å›¾)</ChainFenceGateB_Blueprint.label>
-  <ChainFenceGateB_Frame.label>é“¾çŽ¯å›´æ é—¨(å»ºç­‘)</ChainFenceGateB_Frame.label>
-  <ChainFenceGateB_Frame.description>ç”±äº¤ç»‡é’¢ä¸åˆ¶æˆçš„åšå›ºçš„é’¢åˆ¶å›´æ é—¨ã€‚.</ChainFenceGateB_Frame.description>
-  <TechFence.label>å®‰å…¨å›´æ </TechFence.label>
-  <TechFence.description>é«˜é«˜çš„é‡‘å±žæ …æ ï¼Œä¸Šé¢é“ºç€å‰ƒåˆ€ã€‚</TechFence.description>
-  <TechFence_Blueprint.label>å®‰å…¨å›´æ (è“å›¾)</TechFence_Blueprint.label>
-  <TechFence_Frame.label>å®‰å…¨å›´æ (å»ºç­‘)</TechFence_Frame.label>
-  <TechFence_Frame.description>é«˜é«˜çš„é‡‘å±žæ …æ ï¼Œä¸Šé¢é“ºç€å‰ƒåˆ€ã€‚</TechFence_Frame.description>
-  <TechFenceGate.label>å®‰å…¨å›´æ é—¨</TechFenceGate.label>
-  <TechFenceGate.description>é«˜å¤§çš„é‡‘å±žå®‰å…¨é—¨ã€‚</TechFenceGate.description>
-  <TechFenceGate_Blueprint.label>å®‰å…¨å›´æ é—¨ (è“å›¾)</TechFenceGate_Blueprint.label>
-  <TechFenceGate_Frame.label>å®‰å…¨å›´æ é—¨ (å»ºç­‘)</TechFenceGate_Frame.label>
-  <TechFenceGate_Frame.description>é«˜å¤§çš„é‡‘å±žå®‰å…¨é—¨ã€‚</TechFenceGate_Frame.description>
-  <TechFenceGateB.label>å®‰å…¨å›´æ é—¨</TechFenceGateB.label>
-  <TechFenceGateB.description>é«˜å¤§çš„é‡‘å±žå®‰å…¨é—¨ã€‚</TechFenceGateB.description>
-  <TechFenceGateB_Blueprint.label>å®‰å…¨å›´æ é—¨ (è“å›¾)</TechFenceGateB_Blueprint.label>
-  <TechFenceGateB_Frame.label>å®‰å…¨å›´æ é—¨ (å»ºç­‘)</TechFenceGateB_Frame.label>
-  <TechFenceGateB_Frame.description>é«˜å¤§çš„é‡‘å±žå®‰å…¨é—¨ã€‚</TechFenceGateB_Frame.description>
-  <SecurityBarrier.label>å®‰å…¨å±éšœ</SecurityBarrier.label>
-  <SecurityBarrier.description>èµ·è…°é«˜å®‰å…¨å±éšœï¼Œæ—¨åœ¨åœ¨æˆ˜æ–—ä¸­æä¾›ç´§æ€¥æŽ©æŠ¤ã€‚</SecurityBarrier.description>
-  <SecurityBarrier_Blueprint.label>å®‰å…¨å±éšœ(è“å›¾)</SecurityBarrier_Blueprint.label>
-  <SecurityBarrier_Frame.label>å®‰å…¨å±éšœ(å»ºç­‘)</SecurityBarrier_Frame.label>
-  <SecurityBarrier_Frame.description>èµ·è…°é«˜å®‰å…¨å±éšœï¼Œæ—¨åœ¨åœ¨æˆ˜æ–—ä¸­æä¾›ç´§æ€¥æŽ©æŠ¤ã€‚</SecurityBarrier_Frame.description>
+  <WoodFence.label>木制栅栏</WoodFence.label>
+  <WoodFence.description>一个很好的老式木栅栏。</WoodFence.description>
+  <WoodFence_Blueprint.label>木制栅栏（蓝图）</WoodFence_Blueprint.label>
+  <WoodFence_Frame.label>木制栅栏（建造中）</WoodFence_Frame.label>
+  <WoodFence_Frame.description>一个很好的老式木栅栏。</WoodFence_Frame.description>
+  <WoodFenceGate.label>木栅栏门</WoodFenceGate.label>
+  <WoodFenceGate.description>一个木梁做的门。</WoodFenceGate.description>
+  <WoodFenceGate_Blueprint.label>木栅栏门（蓝图）</WoodFenceGate_Blueprint.label>
+  <WoodFenceGate_Frame.label>木栅栏门（建造中）</WoodFenceGate_Frame.label>
+  <WoodFenceGate_Frame.description>一个木梁做的门。</WoodFenceGate_Frame.description>
+  <WoodFenceGateB.label>木栅栏门</WoodFenceGateB.label>
+  <WoodFenceGateB.description>一个木梁做的门。</WoodFenceGateB.description>
+  <WoodFenceGateB_Blueprint.label>木栅栏门（蓝图）</WoodFenceGateB_Blueprint.label>
+  <WoodFenceGateB_Frame.label>木栅栏门（建造中）</WoodFenceGateB_Frame.label>
+  <WoodFenceGateB_Frame.description>一个木梁做的门。</WoodFenceGateB_Frame.description>
+  <ChainFence.label>铁丝网围栏</ChainFence.label>
+  <ChainFence.description>用交织的铁丝制成的坚固的金属栅栏。</ChainFence.description>
+  <ChainFence_Blueprint.label>铁丝网围栏（蓝图）</ChainFence_Blueprint.label>
+  <ChainFence_Frame.label>铁丝网围栏（建造中）</ChainFence_Frame.label>
+  <ChainFence_Frame.description>用交织的铁丝制成的坚固的金属栅栏。</ChainFence_Frame.description>
+  <ChainFenceGate.label>铁丝网围栏门</ChainFenceGate.label>
+  <ChainFenceGate.description>用交织的铁丝制成的坚固的金属栅栏门。</ChainFenceGate.description>
+  <ChainFenceGate_Blueprint.label>铁丝网围栏门（蓝图）</ChainFenceGate_Blueprint.label>
+  <ChainFenceGate_Frame.label>铁丝网围栏门（建造中）</ChainFenceGate_Frame.label>
+  <ChainFenceGate_Frame.description>用交织的铁丝制成的坚固的金属栅栏门。</ChainFenceGate_Frame.description>
+  <ChainFenceGateB.label>铁丝网围栏门</ChainFenceGateB.label>
+  <ChainFenceGateB.description>用交织的铁丝制成的坚固的金属栅栏门。</ChainFenceGateB.description>
+  <ChainFenceGateB_Blueprint.label>铁丝网围栏门（蓝图）</ChainFenceGateB_Blueprint.label>
+  <ChainFenceGateB_Frame.label>铁丝网围栏门（建造中）</ChainFenceGateB_Frame.label>
+  <ChainFenceGateB_Frame.description>用交织的铁丝制成的坚固的金属栅栏门。</ChainFenceGateB_Frame.description>
+  <TechFence.label>高安全围栏</TechFence.label>
+  <TechFence.description>一种高高的金属栅栏，顶部有铁丝网。</TechFence.description>
+  <TechFence_Blueprint.label>高安全围栏（蓝图）</TechFence_Blueprint.label>
+  <TechFence_Frame.label>高安全围栏（建造中）</TechFence_Frame.label>
+  <TechFence_Frame.description>一种高高的金属栅栏，顶部有铁丝网。</TechFence_Frame.description>
+  <TechFenceGate.label>高安全围栏门</TechFenceGate.label>
+  <TechFenceGate.description>一种高高的金属栅栏门，顶部有铁丝网。</TechFenceGate.description>
+  <TechFenceGate_Blueprint.label>高安全围栏门（蓝图）</TechFenceGate_Blueprint.label>
+  <TechFenceGate_Frame.label>高安全围栏门（建造中）</TechFenceGate_Frame.label>
+  <TechFenceGate_Frame.description>一种高高的金属栅栏，顶部有铁丝网。</TechFenceGate_Frame.description>
+  <TechFenceGateB.label>高安全围栏门</TechFenceGateB.label>
+  <TechFenceGateB.description>一种高高的金属栅栏，顶部有铁丝网。</TechFenceGateB.description>
+  <TechFenceGateB_Blueprint.label>高安全围栏门（蓝图）</TechFenceGateB_Blueprint.label>
+  <TechFenceGateB_Frame.label>高安全围栏门（建造中）</TechFenceGateB_Frame.label>
+  <TechFenceGateB_Frame.description>一种高高的金属栅栏，顶部有铁丝网。</TechFenceGateB_Frame.description>
+  <SecurityBarrier.label>安全屏障</SecurityBarrier.label>
+  <SecurityBarrier.description>一种齐腰高的安全屏障，用于在战斗中提供紧急掩护。</SecurityBarrier.description>
+  <SecurityBarrier_Blueprint.label>安全屏障（蓝图）</SecurityBarrier_Blueprint.label>
+  <SecurityBarrier_Frame.label>安全屏障（建造中）</SecurityBarrier_Frame.label>
+  <SecurityBarrier_Frame.description>一种齐腰高的安全屏障，用于在战斗中提供紧急掩护。</SecurityBarrier_Frame.description>
 </LanguageData>
