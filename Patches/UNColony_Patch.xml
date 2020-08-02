@@ -4,11 +4,11 @@
     <success>Always</success>
     <operations>
       <li Class="PatchOperationTest">
-        <xpath>/Defs/ThingDef[@Name="FenceExtBuildingBase"]</xpath>
+        <xpath>/Defs/ThingDef[@Name="SadjuukFenceBase"]</xpath>
       </li>
       <li Class="PatchOperationReplace">
         <success>Always</success>
-        <xpath>/Defs/ThingDef[@Name="FenceExtBuildingBase"]/designationCategory</xpath>
+        <xpath>/Defs/ThingDef[@Name="SadjuukFenceBase"]/designationCategory</xpath>
         <value>
           <designationCategory>Fences</designationCategory>
         </value>
@@ -19,13 +19,13 @@
     <success>Always</success>
     <operations>
       <li Class="PatchOperationTest">
-        <xpath>/Defs/ThingDef[@Name="FenceBase" or @Name="GateBase"]</xpath>
+        <xpath>/Defs/ThingDef[@Name="SadjuukDoorBaseA" or @Name="SadjuukDoorBaseB" or @Name="SadjuukDoorBaseC"]</xpath>
       </li>
-      <li Class="PatchOperationReplace">
+      <li Class="PatchOperationAdd">
         <success>Always</success>
-        <xpath>/Defs/ThingDef[@Name="FenceBase" or @Name="GateBase"]/designationCategory</xpath>
+        <xpath>/Defs/ThingDef[@Name="SadjuukDoorBaseA" or @Name="SadjuukDoorBaseB" or @Name="SadjuukDoorBaseC"]</xpath>
         <value>
-          <designationCategory>Fences</designationCategory>
+          <designationCategory Inherit="False">Fences</designationCategory>
         </value>
       </li>
     </operations>
