@@ -1,31 +1,17 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-
   <!-- Plywood -->
-
   <FAFWoodTile.label>plywood panels</FAFWoodTile.label>
   <FAFWoodTile.description>Sheets of compressed plywood.  A great option for cheap, temporary flooring during construction.</FAFWoodTile.description>
-
   <FAFBurnedWoodTile.label>burned plywood floor</FAFBurnedWoodTile.label>
   <FAFBurnedWoodTile.description>Burned-out plywood panel flooring.</FAFBurnedWoodTile.description>
-
-
   <!-- Metal Grate -->
-
   <FAFMetalTileA.label>Steel grating</FAFMetalTileA.label>
   <FAFMetalTileA.description>This steel paneling is not only durable but easy to clean.  Most refuse slips right through its perforated surface!</FAFMetalTileA.description>
-
-
   <!-- Ship Paneling -->
-
   <FAFMetalTileB.label>Metal panels</FAFMetalTileB.label>
   <FAFMetalTileB.description>The design of these steel panels was based off of a popular style of starship interior passageway floor plating.</FAFMetalTileB.description>
-
-
   <!-- Advanced Tech Paneling -->
-
   <FAFTechTile.label>Sensor panels</FAFTechTile.label>
   <FAFTechTile.description>These incredibly advanced floor panels are actually in active communication with one another.  Utilizing built in sensors and an integrated high speed network these "smart" tiles can detect and subtly react to being walked upon to always provide an optimal surface for rapid locomotion.</FAFTechTile.description>
-
-
 </LanguageData>

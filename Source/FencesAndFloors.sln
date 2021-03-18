@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2010
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FencesAndFloors", "FencesAndFloors\FencesAndFloors.csproj", "{62AB5A9C-F061-4B73-920C-53EA0C6714FF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{62AB5A9C-F061-4B73-920C-53EA0C6714FF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{62AB5A9C-F061-4B73-920C-53EA0C6714FF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{62AB5A9C-F061-4B73-920C-53EA0C6714FF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{62AB5A9C-F061-4B73-920C-53EA0C6714FF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {425DCAEE-ECC3-47A5-B33D-507C3004E7D3}
+	EndGlobalSection
+EndGlobal

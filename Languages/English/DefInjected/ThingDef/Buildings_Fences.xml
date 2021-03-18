@@ -1,85 +1,60 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-
   <!-- Farm Fence -->
-
   <WoodFence.label>fence</WoodFence.label>
   <WoodFence.description>A good, old fashioned wooden fence.</WoodFence.description>
   <WoodFence_Blueprint.label>fence (blueprint)</WoodFence_Blueprint.label>
   <WoodFence_Frame.label>fence (building)</WoodFence_Frame.label>
   <WoodFence_Frame.description>A good, old fashioned wooden fence.</WoodFence_Frame.description>
-
-
   <!-- Farm Gate -->
-
   <WoodFenceGate.label>fence gate</WoodFenceGate.label>
   <WoodFenceGate.description>A gate made of wooden beams.</WoodFenceGate.description>
   <WoodFenceGate_Blueprint.label>fence gate (blueprint)</WoodFenceGate_Blueprint.label>
   <WoodFenceGate_Frame.label>fence gate (building)</WoodFenceGate_Frame.label>
   <WoodFenceGate_Frame.description>A gate made of wooden beams.</WoodFenceGate_Frame.description>
-
   <WoodFenceGateB.label>fence gate</WoodFenceGateB.label>
   <WoodFenceGateB.description>A gate made of wooden beams.</WoodFenceGateB.description>
   <WoodFenceGateB_Blueprint.label>fence gate (blueprint)</WoodFenceGateB_Blueprint.label>
   <WoodFenceGateB_Frame.label>fence gate (building)</WoodFenceGateB_Frame.label>
   <WoodFenceGateB_Frame.description>A gate made of wooden beams.</WoodFenceGateB_Frame.description>
-
-
   <!-- Chainlink Fence -->
-
   <ChainFence.label>Chainlink fence</ChainFence.label>
   <ChainFence.description>A sturdy steel fence made of interwoven steel wire.</ChainFence.description>
   <ChainFence_Blueprint.label>Chainlink fence (blueprint)</ChainFence_Blueprint.label>
   <ChainFence_Frame.label>Chainlink fence (building)</ChainFence_Frame.label>
   <ChainFence_Frame.description>A sturdy steel fence made of interwoven steel wire.</ChainFence_Frame.description>
-
-
   <!-- Chainlink Gate -->
-
   <ChainFenceGate.label>Chainlink fence gate</ChainFenceGate.label>
   <ChainFenceGate.description>A sturdy steel fence gate made of interwoven steel wire.</ChainFenceGate.description>
   <ChainFenceGate_Blueprint.label>Chainlink fence gate (blueprint)</ChainFenceGate_Blueprint.label>
   <ChainFenceGate_Frame.label>Chainlink fence gate (building)</ChainFenceGate_Frame.label>
   <ChainFenceGate_Frame.description>A sturdy steel fence gate made of interwoven steel wire.</ChainFenceGate_Frame.description>
-
   <ChainFenceGateB.label>Chainlink fence gate</ChainFenceGateB.label>
   <ChainFenceGateB.description>A sturdy steel fence gate made of interwoven steel wire.</ChainFenceGateB.description>
   <ChainFenceGateB_Blueprint.label>Chainlink fence gate (blueprint)</ChainFenceGateB_Blueprint.label>
   <ChainFenceGateB_Frame.label>Chainlink fence gate (building)</ChainFenceGateB_Frame.label>
   <ChainFenceGateB_Frame.description>A sturdy steel fence gate made of interwoven steel wire.</ChainFenceGateB_Frame.description>
-
-
   <!-- High Security Fence -->
-
   <TechFence.label>High security fence</TechFence.label>
   <TechFence.description>A tall, metal fence topped with razor wire.</TechFence.description>
   <TechFence_Blueprint.label>High security fence (blueprint)</TechFence_Blueprint.label>
   <TechFence_Frame.label>High security fence (building)</TechFence_Frame.label>
   <TechFence_Frame.description>A tall, metal fence topped with razor wire.</TechFence_Frame.description>
-
-
   <!-- High Security Gate -->
-
   <TechFenceGate.label>High security fence gate</TechFenceGate.label>
   <TechFenceGate.description>A tall, metal security gate.</TechFenceGate.description>
   <TechFenceGate_Blueprint.label>High security fence gate (blueprint)</TechFenceGate_Blueprint.label>
   <TechFenceGate_Frame.label>High security fence gate (building)</TechFenceGate_Frame.label>
   <TechFenceGate_Frame.description>A tall, metal security gate.</TechFenceGate_Frame.description>
-
   <TechFenceGateB.label>High security fence gate</TechFenceGateB.label>
   <TechFenceGateB.description>A tall, metal security gate.</TechFenceGateB.description>
   <TechFenceGateB_Blueprint.label>High security fence gate (blueprint)</TechFenceGateB_Blueprint.label>
   <TechFenceGateB_Frame.label>High security fence gate (building)</TechFenceGateB_Frame.label>
   <TechFenceGateB_Frame.description>A tall, metal security gate.</TechFenceGateB_Frame.description>
-
-
   <!-- Waist High Barrier -->
-
   <SecurityBarrier.label>Security barrier</SecurityBarrier.label>
   <SecurityBarrier.description>A waist high security barrier designed to provide emergency cover in a combat situation.</SecurityBarrier.description>
   <SecurityBarrier_Blueprint.label>Security barrier (blueprint)</SecurityBarrier_Blueprint.label>
   <SecurityBarrier_Frame.label>Security barrier (building)</SecurityBarrier_Frame.label>
   <SecurityBarrier_Frame.description>A waist high security barrier designed to provide emergency cover in a combat situation.</SecurityBarrier_Frame.description>
-
-
 </LanguageData>

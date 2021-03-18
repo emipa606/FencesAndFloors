@@ -99,7 +99,7 @@
     <description>These incredibly advanced floor panels are actually in active communication with one another.  Utilizing built in sensors and an integrated high speed network these "smart" tiles can detect and subtly react to being walked upon to give the best walking experience possible.</description>
     <texturePath>Terrain/Surfaces/FloorTech</texturePath>
     <uiIconPath>Terrain/Surfaces/FloorTechIco</uiIconPath>
-    <pathCost>0</pathCost>
+    <pathCost>-5</pathCost>
     <statBases>
       <Beauty>1</Beauty>
       <WorkToBuild>800</WorkToBuild>
