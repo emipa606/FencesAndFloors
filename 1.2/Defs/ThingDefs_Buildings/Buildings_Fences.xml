@@ -14,6 +14,9 @@
     <statBases>
       <SellPriceFactor>0.70</SellPriceFactor>
     </statBases>
+    <building>
+      <allowAutoroof>false</allowAutoroof>
+    </building>
   </ThingDef>
   <ThingDef ParentName="FencesAFBuildingBase" Name="FencesAFGateBase" Abstract="True">
     <thingClass>Building_Door</thingClass>

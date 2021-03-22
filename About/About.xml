@@ -23,6 +23,8 @@ https://steamcommunity.com/sharedfiles/filedetails/?id=784370602
 Chinese translation: 神殇丶听聆
 Updated Chinese translation: 地上的苦难是吾等的食粮丶
 
+Fixed the Sensor Panels not giving speedup.
+
 [img]https://i.imgur.com/7Gzt3Rg.png[/img]
 
 [table]
@@ -52,6 +54,6 @@ Some additions exhibit special qualities.  Steel grating has an inherent bonus t
 [*] Do not report errors by making a discussion-thread, I get no notification of that.
 [*] If you have the solution for a problem, please post it to the GitHub repository.
 [/list]
+
 </description>
 </ModMetaData>
-
