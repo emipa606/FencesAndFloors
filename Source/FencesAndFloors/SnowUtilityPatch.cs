@@ -6,13 +6,13 @@ using Verse.AI;
 namespace FencesAndFloors
 {
     [HarmonyPatch(typeof(PathGrid), "CalculatedCostAt")]
-    public static class SnowUtilityPatch
+    public static class PathGrid_CalculatedCostAt
     {
         // Token: 0x06000002 RID: 2 RVA: 0x00002078 File Offset: 0x00000278
         public static IEnumerable<CodeInstruction> Transpiler(IEnumerable<CodeInstruction> instrs)
         {
             instrs = instrs.MethodReplacer(typeof(SnowUtility).GetMethod("MovementTicksAddOn"),
-                typeof(SnowUtilityPatch).GetMethod("MovementTicksAddOnIgnoreZero"));
+                typeof(PathGrid_CalculatedCostAt).GetMethod("MovementTicksAddOnIgnoreZero"));
             return instrs;
         }
 
