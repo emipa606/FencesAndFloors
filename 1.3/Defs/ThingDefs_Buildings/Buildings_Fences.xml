@@ -16,6 +16,7 @@
     </statBases>
     <building>
       <allowAutoroof>false</allowAutoroof>
+      <isFence>true</isFence>
     </building>
   </ThingDef>
   <ThingDef ParentName="FencesAFBuildingBase" Name="FencesAFGateBase" Abstract="True">
