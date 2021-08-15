@@ -1,5 +1,8 @@
 # Changelog for FencesAndFloors
 
+1.0.12.0 - Removed the isFence property as they are already impassable
+
+
 1.0.11.0 - Fences should now be recognized by pen-markers
 
 
