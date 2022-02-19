@@ -1,10 +1,10 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <Defs>
-  <HugsLib.UpdateFeatureDef Abstract="true" Name="UpdateFeatureBase">
+  <HugsLib.UpdateFeatureDef Abstract="true" Name="Mlie_UpdateFeatureBase">
     <modNameReadable>FencesAndFloors</modNameReadable>
     <linkUrl>https://steamcommunity.com/sharedfiles/filedetails/?id=2012420113</linkUrl>
   </HugsLib.UpdateFeatureDef>
-  <HugsLib.UpdateFeatureDef ParentName="UpdateFeatureBase">
+  <HugsLib.UpdateFeatureDef ParentName="Mlie_UpdateFeatureBase">
     <defName>FencesAndFloors_1_0_8_0</defName>
     <assemblyVersion>1.0.8.0</assemblyVersion>
     <content>Found a solution for the Sensor Panels not giving a speedup from the normal walk-speed. This however requires the Harmony-mod to be loaded. Not having Harmony loaded will not cause errors but you will not get the increased speed of the Sensor Panels.
