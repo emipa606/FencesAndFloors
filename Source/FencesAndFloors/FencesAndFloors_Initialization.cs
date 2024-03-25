@@ -9,8 +9,6 @@ internal class FencesAndFloors_Initialization
 {
     static FencesAndFloors_Initialization()
     {
-        var harmony = new Harmony("mlie.FencesAndFloors");
-        var assembly = Assembly.GetExecutingAssembly();
-        harmony.PatchAll(assembly);
+        new Harmony("mlie.FencesAndFloors").PatchAll(Assembly.GetExecutingAssembly());
     }
 }
