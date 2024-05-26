@@ -1,0 +1,62 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!-- Farm Fence -->
+  <WoodFence.label>Zaun</WoodFence.label>
+  <WoodFence.description>Ein guter, altmodischer Holzzaun.</WoodFence.description>
+  <WoodFence_Blueprint.label>Zaun (Bauplan)</WoodFence_Blueprint.label>
+  <WoodFence_Frame.label>Zaun (im Bau)</WoodFence_Frame.label>
+  <WoodFence_Frame.description>Ein guter, altmodischer Holzzaun.</WoodFence_Frame.description>
+  <!-- Farm Gate -->
+  <WoodFenceGate.label>Zauntor</WoodFenceGate.label>
+  <WoodFenceGate.description>Ein Tor aus Holzbalken.</WoodFenceGate.description>
+  <WoodFenceGate_Blueprint.label>Zauntor (Bauplan)</WoodFenceGate_Blueprint.label>
+  <WoodFenceGate_Frame.label>Zauntor (im Bau)</WoodFenceGate_Frame.label>
+  <WoodFenceGate_Frame.description>Ein Tor aus Holzbalken.</WoodFenceGate_Frame.description>
+  <WoodFenceGateB.label>Zauntor</WoodFenceGateB.label>
+  <WoodFenceGateB.description>Ein Tor aus Holzbalken.</WoodFenceGateB.description>
+  <WoodFenceGateB_Blueprint.label>Zauntor (Bauplan)</WoodFenceGateB_Blueprint.label>
+  <WoodFenceGateB_Frame.label>Zauntor (im Bau)</WoodFenceGateB_Frame.label>
+  <WoodFenceGateB_Frame.description>Ein Tor aus Holzbalken.</WoodFenceGateB_Frame.description>
+  <!-- Chainlink Fence -->
+  <ChainFence.label>Maschendrahtzaun</ChainFence.label>
+  <ChainFence.description>Ein robuster Stahlgitterzaun aus ineinandergreifendem Stahldraht.</ChainFence.description>
+  <ChainFence_Blueprint.label>Maschendrahtzaun (Bauplan)</ChainFence_Blueprint.label>
+  <ChainFence_Frame.label>Maschendrahtzaun (im Bau)</ChainFence_Frame.label>
+  <ChainFence_Frame.description>Ein robuster Stahlgitterzaun aus ineinandergreifendem Stahldraht.</ChainFence_Frame.description>
+  <!-- Chainlink Gate -->
+  <ChainFenceGate.label>Maschendrahtzauntor</ChainFenceGate.label>
+  <ChainFenceGate.description>Ein robustes Maschendrahtzauntor aus ineinandergreifendem Stahldraht.</ChainFenceGate.description>
+  <ChainFenceGate_Blueprint.label>Maschendrahtzauntor (Bauplan)</ChainFenceGate_Blueprint.label>
+  <ChainFenceGate_Frame.label>Maschendrahtzauntor (im Bau)</ChainFenceGate_Frame.label>
+  <ChainFenceGate_Frame.description>Ein robustes Maschendrahtzauntor aus ineinandergreifendem Stahldraht.</ChainFenceGate_Frame.description>
+  <ChainFenceGateB.label>Maschendrahtzauntor</ChainFenceGateB.label>
+  <ChainFenceGateB.description>Ein robustes Maschendrahtzauntor aus ineinandergreifendem Stahldraht.</ChainFenceGateB.description>
+  <ChainFenceGateB_Blueprint.label>Maschendrahtzauntor (Bauplan)</ChainFenceGateB_Blueprint.label>
+  <ChainFenceGateB_Frame.label>Maschendrahtzauntor (im Bau)</ChainFenceGateB_Frame.label>
+  <ChainFenceGateB_Frame.description>Ein robustes Maschendrahtzauntor aus ineinandergreifendem Stahldraht.</ChainFenceGateB_Frame.description>
+  <!-- High Security Fence -->
+  <TechFence.label>Hochsicherheitszaun</TechFence.label>
+  <TechFence.description>Ein hoher, mit Stacheldraht versehener Metallzaun.</TechFence.description>
+  <TechFence_Blueprint.label>Hochsicherheitszaun (Bauplan)</TechFence_Blueprint.label>
+  <TechFence_Frame.label>Hochsicherheitszaun (im Bau)</TechFence_Frame.label>
+  <TechFence_Frame.description>Ein hoher, mit Stacheldraht versehener Metallzaun.</TechFence_Frame.description>
+  <!-- High Security Gate -->
+  <TechFenceGate.label>Hochsicherheitszauntor</TechFenceGate.label>
+  <TechFenceGate.description>Ein hohes, metallenes Sicherheitstor.</TechFenceGate.description>
+  <TechFenceGate_Blueprint.label>Hochsicherheitszauntor (Bauplan)</TechFenceGate_Blueprint.label>
+  <TechFenceGate_Frame.label>Hochsicherheitszauntor (im Bau)</TechFenceGate_Frame.label>
+  <TechFenceGate_Frame.description>Ein hohes, metallenes Sicherheitstor.</TechFenceGate_Frame.description>
+  <TechFenceGateB.label>Hochsicherheitszauntor</TechFenceGateB.label>
+  <TechFenceGateB.description>Ein hohes, metallenes Sicherheitstor.</TechFenceGateB.description>
+  <TechFenceGateB_Blueprint.label>Hochsicherheitszauntor (Bauplan)</TechFenceGateB_Blueprint.label>
+  <TechFenceGateB_Frame.label>Hochsicherheitszauntor (im Bau)</TechFenceGateB_Frame.label>
+  <TechFenceGateB_Frame.description>Ein hohes, metallenes Sicherheitstor.</TechFenceGateB_Frame.description>
+  <!-- Waist High Barrier -->
+  <SecurityBarrier.label>Sicherheitsbarriere</SecurityBarrier.label>
+  <SecurityBarrier.description>Eine hüfthohe Sicherheitsbarriere, die in einer Notsituation Schutz
+  bietet.</SecurityBarrier.description>
+  <SecurityBarrier_Blueprint.label>Sicherheitsbarriere (Bauplan)</SecurityBarrier_Blueprint.label>
+  <SecurityBarrier_Frame.label>Sicherheitsbarriere (im Bau)</SecurityBarrier_Frame.label>
+  <SecurityBarrier_Frame.description>Eine hüfthohe Sicherheitsbarriere, die in einer Notsituation Schutz
+  bietet.</SecurityBarrier_Frame.description>
+</LanguageData>
