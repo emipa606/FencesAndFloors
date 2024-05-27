@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!-- Plywood -->
+  <FAFWoodTile.label>Sperrholzplatten</FAFWoodTile.label>
+  <FAFWoodTile.description>Platten aus gepresstem Sperrholz. Eine großartige Option für günstigen, temporären Bodenbelag während der Bauphase.</FAFWoodTile.description>
+  <FAFBurnedWoodTile.label>verbrannter Sperrholzboden</FAFBurnedWoodTile.label>
+  <FAFBurnedWoodTile.description>Verbrannter Sperrholzplattenboden.</FAFBurnedWoodTile.description>
+  <!-- Metal Grate -->
+  <FAFMetalTileA.label>Stahlgitter</FAFMetalTileA.label>
+  <FAFMetalTileA.description>Diese Stahlgitter sind nicht nur langlebig, sondern auch leicht zu reinigen. Die meisten Abfälle rutschen einfach durch die perforierte Oberfläche!</FAFMetalTileA.description>
+  <!-- Ship Paneling -->
+  <FAFMetalTileB.label>Metallplatten</FAFMetalTileB.label>
+  <FAFMetalTileB.description>Das Design dieser Stahlplatten basiert auf einem beliebten Stil von Bodenplatten in Raumschiffkorridoren.</FAFMetalTileB.description>
+  <!-- Advanced Tech Paneling -->
+  <FAFTechTile.label>Sensorplatten</FAFTechTile.label>
+  <FAFTechTile.description>Diese unglaublich fortschrittlichen Bodenplatten kommunizieren tatsächlich miteinander. Durch die Nutzung eingebauter Sensoren und eines integrierten Hochgeschwindigkeitsnetzwerks können diese "intelligenten" Fliesen erkennen und darauf reagieren, dass sie betreten werden, um stets eine optimale Oberfläche für schnelle Fortbewegung zu bieten.</FAFTechTile.description>
+</LanguageData>
