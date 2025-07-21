@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: Chainlink fence (blueprint) -->
+  <Blueprint_ChainFence.label>Chainlink fence (blueprint)</Blueprint_ChainFence.label>
+  <!-- EN: Chainlink fence gate (blueprint) -->
+  <Blueprint_ChainFenceGate.label>Chainlink fence gate (blueprint)</Blueprint_ChainFenceGate.label>
+  <!-- EN: Chainlink fence gate (blueprint) -->
+  <Blueprint_ChainFenceGateB.label>Chainlink fence gate (blueprint)</Blueprint_ChainFenceGateB.label>
+  <!-- EN: Steel grating (blueprint) -->
+  <Blueprint_FAFMetalTileA.label>Steel grating (blueprint)</Blueprint_FAFMetalTileA.label>
+  <!-- EN: Metal panels (blueprint) -->
+  <Blueprint_FAFMetalTileB.label>Metal panels (blueprint)</Blueprint_FAFMetalTileB.label>
+  <!-- EN: Sensor panels (blueprint) -->
+  <Blueprint_FAFTechTile.label>Sensor panels (blueprint)</Blueprint_FAFTechTile.label>
+  <!-- EN: plywood panels (blueprint) -->
+  <Blueprint_FAFWoodTile.label>plywood panels (blueprint)</Blueprint_FAFWoodTile.label>
+  <!-- EN: Security barrier (blueprint) -->
+  <Blueprint_SecurityBarrier.label>Security barrier (blueprint)</Blueprint_SecurityBarrier.label>
+  <!-- EN: High security fence (blueprint) -->
+  <Blueprint_TechFence.label>High security fence (blueprint)</Blueprint_TechFence.label>
+  <!-- EN: High security fence gate (blueprint) -->
+  <Blueprint_TechFenceGate.label>High security fence gate (blueprint)</Blueprint_TechFenceGate.label>
+  <!-- EN: High security fence gate (blueprint) -->
+  <Blueprint_TechFenceGateB.label>High security fence gate (blueprint)</Blueprint_TechFenceGateB.label>
+  <!-- EN: fence (blueprint) -->
+  <Blueprint_WoodFence.label>fence (blueprint)</Blueprint_WoodFence.label>
+  <!-- EN: fence gate (blueprint) -->
+  <Blueprint_WoodFenceGate.label>fence gate (blueprint)</Blueprint_WoodFenceGate.label>
+  <!-- EN: fence gate (blueprint) -->
+  <Blueprint_WoodFenceGateB.label>fence gate (blueprint)</Blueprint_WoodFenceGateB.label>
+  <!-- EN: Chainlink fence (building) -->
+  <Frame_ChainFence.label>Chainlink fence (building)</Frame_ChainFence.label>
+  <!-- EN: A sturdy steel fence made of interwoven steel wire. -->
+  <Frame_ChainFence.description>A sturdy steel fence made of interwoven steel wire.</Frame_ChainFence.description>
+  <!-- EN: Chainlink fence gate (building) -->
+  <Frame_ChainFenceGate.label>Chainlink fence gate (building)</Frame_ChainFenceGate.label>
+  <!-- EN: A sturdy steel fence gate made of interwoven steel wire. -->
+  <Frame_ChainFenceGate.description>A sturdy steel fence gate made of interwoven steel wire.</Frame_ChainFenceGate.description>
+  <!-- EN: Chainlink fence gate (building) -->
+  <Frame_ChainFenceGateB.label>Chainlink fence gate (building)</Frame_ChainFenceGateB.label>
+  <!-- EN: A sturdy steel fence gate made of interwoven steel wire. -->
+  <Frame_ChainFenceGateB.description>A sturdy steel fence gate made of interwoven steel wire.</Frame_ChainFenceGateB.description>
+  <!-- EN: Steel grating (building) -->
+  <Frame_FAFMetalTileA.label>Steel grating (building)</Frame_FAFMetalTileA.label>
+  <!-- EN: Terrain building in progress. -->
+  <Frame_FAFMetalTileA.description>Terrain building in progress.</Frame_FAFMetalTileA.description>
+  <!-- EN: Metal panels (building) -->
+  <Frame_FAFMetalTileB.label>Metal panels (building)</Frame_FAFMetalTileB.label>
+  <!-- EN: Terrain building in progress. -->
+  <Frame_FAFMetalTileB.description>Terrain building in progress.</Frame_FAFMetalTileB.description>
+  <!-- EN: Sensor panels (building) -->
+  <Frame_FAFTechTile.label>Sensor panels (building)</Frame_FAFTechTile.label>
+  <!-- EN: Terrain building in progress. -->
+  <Frame_FAFTechTile.description>Terrain building in progress.</Frame_FAFTechTile.description>
+  <!-- EN: plywood panels (building) -->
+  <Frame_FAFWoodTile.label>plywood panels (building)</Frame_FAFWoodTile.label>
+  <!-- EN: Terrain building in progress. -->
+  <Frame_FAFWoodTile.description>Terrain building in progress.</Frame_FAFWoodTile.description>
+  <!-- EN: Security barrier (building) -->
+  <Frame_SecurityBarrier.label>Security barrier (building)</Frame_SecurityBarrier.label>
+  <!-- EN: A waist high security barrier designed to provide emergency cover in a combat situation. -->
+  <Frame_SecurityBarrier.description>A waist high security barrier designed to provide emergency cover in a combat situation.</Frame_SecurityBarrier.description>
+  <!-- EN: High security fence (building) -->
+  <Frame_TechFence.label>High security fence (building)</Frame_TechFence.label>
+  <!-- EN: A tall, metal fence topped with razor wire. -->
+  <Frame_TechFence.description>A tall, metal fence topped with razor wire.</Frame_TechFence.description>
+  <!-- EN: High security fence gate (building) -->
+  <Frame_TechFenceGate.label>High security fence gate (building)</Frame_TechFenceGate.label>
+  <!-- EN: A tall, metal security gate. -->
+  <Frame_TechFenceGate.description>A tall, metal security gate.</Frame_TechFenceGate.description>
+  <!-- EN: High security fence gate (building) -->
+  <Frame_TechFenceGateB.label>High security fence gate (building)</Frame_TechFenceGateB.label>
+  <!-- EN: A tall, metal security gate. -->
+  <Frame_TechFenceGateB.description>A tall, metal security gate.</Frame_TechFenceGateB.description>
+  <!-- EN: fence (building) -->
+  <Frame_WoodFence.label>fence (building)</Frame_WoodFence.label>
+  <!-- EN: A good, old fashioned wooden fence. -->
+  <Frame_WoodFence.description>A good, old fashioned wooden fence.</Frame_WoodFence.description>
+  <!-- EN: fence gate (building) -->
+  <Frame_WoodFenceGate.label>fence gate (building)</Frame_WoodFenceGate.label>
+  <!-- EN: A gate made of wooden beams. -->
+  <Frame_WoodFenceGate.description>A gate made of wooden beams.</Frame_WoodFenceGate.description>
+  <!-- EN: fence gate (building) -->
+  <Frame_WoodFenceGateB.label>fence gate (building)</Frame_WoodFenceGateB.label>
+  <!-- EN: A gate made of wooden beams. -->
+  <Frame_WoodFenceGateB.description>A gate made of wooden beams.</Frame_WoodFenceGateB.description>
+</LanguageData>

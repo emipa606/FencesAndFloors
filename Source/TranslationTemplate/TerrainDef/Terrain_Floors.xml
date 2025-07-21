@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: burned plywood floor -->
+  <FAFBurnedWoodTile.label>burned plywood floor</FAFBurnedWoodTile.label>
+  <!-- EN: Burned-out plywood panel flooring. -->
+  <FAFBurnedWoodTile.description>Burned-out plywood panel flooring.</FAFBurnedWoodTile.description>
+  <!-- EN: Steel grating -->
+  <FAFMetalTileA.label>Steel grating</FAFMetalTileA.label>
+  <!-- EN: This steel paneling is not only durable but easy to clean.  Most refuse slips right through its perforated surface! -->
+  <FAFMetalTileA.description>This steel paneling is not only durable but easy to clean.  Most refuse slips right through its perforated surface!</FAFMetalTileA.description>
+  <!-- EN: Metal panels -->
+  <FAFMetalTileB.label>Metal panels</FAFMetalTileB.label>
+  <!-- EN: The design of these steel panels was based off of a popular style of starship interior passageway floor plating. -->
+  <FAFMetalTileB.description>The design of these steel panels was based off of a popular style of starship interior passageway floor plating.</FAFMetalTileB.description>
+  <!-- EN: Sensor panels -->
+  <FAFTechTile.label>Sensor panels</FAFTechTile.label>
+  <!-- EN: These incredibly advanced floor panels are actually in active communication with one another.  Utilizing built in sensors and an integrated high speed network these "smart" tiles can detect and subtly react to being walked upon to give the best walking experience possible. -->
+  <FAFTechTile.description>These incredibly advanced floor panels are actually in active communication with one another.  Utilizing built in sensors and an integrated high speed network these "smart" tiles can detect and subtly react to being walked upon to give the best walking experience possible.</FAFTechTile.description>
+  <!-- EN: plywood panels -->
+  <FAFWoodTile.label>plywood panels</FAFWoodTile.label>
+  <!-- EN: Sheets of compressed plywood.  A great option for cheap, temporary flooring during construction. -->
+  <FAFWoodTile.description>Sheets of compressed plywood.  A great option for cheap, temporary flooring during construction.</FAFWoodTile.description>
+</LanguageData>

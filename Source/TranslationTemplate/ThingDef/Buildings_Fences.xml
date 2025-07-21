@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: Chainlink fence -->
+  <ChainFence.label>Chainlink fence</ChainFence.label>
+  <!-- EN: A sturdy steel fence made of interwoven steel wire. -->
+  <ChainFence.description>A sturdy steel fence made of interwoven steel wire.</ChainFence.description>
+  <!-- EN: Chainlink fence gate -->
+  <ChainFenceGate.label>Chainlink fence gate</ChainFenceGate.label>
+  <!-- EN: A sturdy steel fence gate made of interwoven steel wire. -->
+  <ChainFenceGate.description>A sturdy steel fence gate made of interwoven steel wire.</ChainFenceGate.description>
+  <!-- EN: Chainlink fence gate -->
+  <ChainFenceGateB.label>Chainlink fence gate</ChainFenceGateB.label>
+  <!-- EN: A sturdy steel fence gate made of interwoven steel wire. -->
+  <ChainFenceGateB.description>A sturdy steel fence gate made of interwoven steel wire.</ChainFenceGateB.description>
+  <!-- EN: Security barrier -->
+  <SecurityBarrier.label>Security barrier</SecurityBarrier.label>
+  <!-- EN: A waist high security barrier designed to provide emergency cover in a combat situation. -->
+  <SecurityBarrier.description>A waist high security barrier designed to provide emergency cover in a combat situation.</SecurityBarrier.description>
+  <!-- EN: High security fence -->
+  <TechFence.label>High security fence</TechFence.label>
+  <!-- EN: A tall, metal fence topped with razor wire. -->
+  <TechFence.description>A tall, metal fence topped with razor wire.</TechFence.description>
+  <!-- EN: High security fence gate -->
+  <TechFenceGate.label>High security fence gate</TechFenceGate.label>
+  <!-- EN: A tall, metal security gate. -->
+  <TechFenceGate.description>A tall, metal security gate.</TechFenceGate.description>
+  <!-- EN: High security fence gate -->
+  <TechFenceGateB.label>High security fence gate</TechFenceGateB.label>
+  <!-- EN: A tall, metal security gate. -->
+  <TechFenceGateB.description>A tall, metal security gate.</TechFenceGateB.description>
+  <!-- EN: fence -->
+  <WoodFence.label>fence</WoodFence.label>
+  <!-- EN: A good, old fashioned wooden fence. -->
+  <WoodFence.description>A good, old fashioned wooden fence.</WoodFence.description>
+  <!-- EN: fence gate -->
+  <WoodFenceGate.label>fence gate</WoodFenceGate.label>
+  <!-- EN: A gate made of wooden beams. -->
+  <WoodFenceGate.description>A gate made of wooden beams.</WoodFenceGate.description>
+  <!-- EN: fence gate -->
+  <WoodFenceGateB.label>fence gate</WoodFenceGateB.label>
+  <!-- EN: A gate made of wooden beams. -->
+  <WoodFenceGateB.description>A gate made of wooden beams.</WoodFenceGateB.description>
+</LanguageData>

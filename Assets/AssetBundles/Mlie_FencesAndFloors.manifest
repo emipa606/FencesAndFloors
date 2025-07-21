@@ -1,0 +1,60 @@
+ManifestFileVersion: 0
+CRC: 1942852742
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: e84a904444f2dccc1b094fb17985a869
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 2612ac43db082a73502ee80f2eceb73f
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: e84a904444f2dccc1b094fb17985a869
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Data/Mlie.FencesAndFloors/Textures/Things/Building/Fences/ChainFence.png
+- Assets/Data/Mlie.FencesAndFloors/Textures/Terrain/Surfaces/FloorPlywoodIco.png
+- Assets/Data/Mlie.FencesAndFloors/Textures/Terrain/Surfaces/FloorTechIco.png
+- Assets/Data/Mlie.FencesAndFloors/Textures/Things/Building/Fences/WoodFenceIco.png
+- Assets/Data/Mlie.FencesAndFloors/Textures/Terrain/Surfaces/FloorTech.png
+- Assets/Data/Mlie.FencesAndFloors/Textures/Terrain/Surfaces/BurnedFloorPlywood.png
+- Assets/Data/Mlie.FencesAndFloors/Textures/Things/Building/Fences/WoodFence.png
+- Assets/Data/Mlie.FencesAndFloors/Textures/Things/Building/Fences/ChainFenceGateIco.png
+- Assets/Data/Mlie.FencesAndFloors/Textures/Terrain/Surfaces/FloorPlywood.png
+- Assets/Data/Mlie.FencesAndFloors/Textures/Things/Building/Fences/WoodFenceGateBIco.png
+- Assets/Data/Mlie.FencesAndFloors/Textures/Things/Building/Fences/TechFenceIco.png
+- Assets/Data/Mlie.FencesAndFloors/Textures/Things/Building/Fences/WoodFenceGate_Blueprint.png
+- Assets/Data/Mlie.FencesAndFloors/Textures/Things/Building/Fences/Barrier.png
+- Assets/Data/Mlie.FencesAndFloors/Textures/Things/Building/Fences/ChainFenceGateBIco.png
+- Assets/Data/Mlie.FencesAndFloors/Textures/Things/Building/Fences/WoodFenceGateB_Blueprint.png
+- Assets/Data/Mlie.FencesAndFloors/Textures/Things/Building/Fences/Barrier_Blueprint.png
+- Assets/Data/Mlie.FencesAndFloors/Textures/Things/Building/Fences/ChainFenceGate_Mover.png
+- Assets/Data/Mlie.FencesAndFloors/Textures/Things/Building/Fences/TechFence.png
+- Assets/Data/Mlie.FencesAndFloors/Textures/Things/Building/Fences/ChainFenceGateB_Blueprint.png
+- Assets/Data/Mlie.FencesAndFloors/Textures/Things/Building/Fences/ChainFenceGateB_Mover.png
+- Assets/Data/Mlie.FencesAndFloors/Textures/Terrain/Surfaces/FloorPlate.png
+- Assets/Data/Mlie.FencesAndFloors/Textures/Things/Building/Fences/BarrierIco.png
+- Assets/Data/Mlie.FencesAndFloors/Textures/Things/Building/Fences/TechFenceGateIco.png
+- Assets/Data/Mlie.FencesAndFloors/Textures/Terrain/Surfaces/FloorGrateIco.png
+- Assets/Data/Mlie.FencesAndFloors/Textures/Things/Building/Fences/WoodFenceGate_Mover.png
+- Assets/Data/Mlie.FencesAndFloors/Textures/Things/Building/Fences/TechFenceGate_Mover_m.png
+- Assets/Data/Mlie.FencesAndFloors/Textures/Terrain/Surfaces/FloorPlateIco.png
+- Assets/Data/Mlie.FencesAndFloors/Textures/Things/Building/Fences/TechFenceGate_Mover.png
+- Assets/Data/Mlie.FencesAndFloors/Textures/Things/Building/Fences/WoodFenceGateIco.png
+- Assets/Data/Mlie.FencesAndFloors/Textures/Things/Building/Fences/TechFence_Blueprint.png
+- Assets/Data/Mlie.FencesAndFloors/Textures/Things/Building/Fences/TechFenceGateB_Mover.png
+- Assets/Data/Mlie.FencesAndFloors/Textures/Things/Building/Fences/ChainFenceIco.png
+- Assets/Data/Mlie.FencesAndFloors/Textures/Things/Building/Fences/ChainFenceGate_Blueprint.png
+- Assets/Data/Mlie.FencesAndFloors/Textures/Things/Building/Fences/WoodFenceGateB_Mover.png
+- Assets/Data/Mlie.FencesAndFloors/Textures/Terrain/Surfaces/FloorGrate.png
+- Assets/Data/Mlie.FencesAndFloors/Textures/Things/Building/Fences/WoodFence_Blueprint.png
+- Assets/Data/Mlie.FencesAndFloors/Textures/Things/Building/Fences/TechFenceGateBIco.png
+- Assets/Data/Mlie.FencesAndFloors/Textures/Things/Building/Fences/TechFenceGateB_Blueprint.png
+- Assets/Data/Mlie.FencesAndFloors/Textures/Things/Building/Fences/ChainFence_Blueprint.png
+- Assets/Data/Mlie.FencesAndFloors/Textures/Things/Building/Fences/TechFenceGate_Blueprint.png
+- Assets/Data/Mlie.FencesAndFloors/Textures/Things/Building/Fences/TechFence_m.png
+Dependencies: []
