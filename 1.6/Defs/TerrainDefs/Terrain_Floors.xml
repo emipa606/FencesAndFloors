@@ -64,6 +64,7 @@
       <Beauty>-1</Beauty>
       <Cleanliness>0.4</Cleanliness>
       <WorkToBuild>400</WorkToBuild>
+      <FilthMultiplier>0.5</FilthMultiplier>
     </statBases>
     <costList>
       <Steel>2</Steel>
