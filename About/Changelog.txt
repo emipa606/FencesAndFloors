@@ -1,5 +1,8 @@
 # Changelog for FencesAndFloors
 
+1.6.2 - Added replace-tags, thanks MemeGoddess
+
+
 1.6.1 - Steel grating should now have a 50% filth multiplier
 
 
