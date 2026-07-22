@@ -39,4 +39,4 @@ Some additions exhibit special qualities.  Steel grating has an inherent bonus t
 
  
 
-[![Image](https://img.shields.io/github/v/release/emipa606/FencesAndFloors?label=latest%20version&style=plastic&color=9f1111&labelColor=black)](https://steamcommunity.com/sharedfiles/filedetails/changelog/2012420113) | tags: research, defense
+[![Image](https://img.shields.io/github/v/release/emipa606/FencesAndFloors?label=latest%20version&style=plastic&color=9f1111&labelColor=black)](https://steamcommunity.com/sharedfiles/filedetails/changelog/2012420113) | tags: reactive flooring, chainlink fencing
