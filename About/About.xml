@@ -70,6 +70,6 @@ Some additions exhibit special qualities.  Steel grating has an inherent bonus t
 [*] Use [url=https://github.com/RimSort/RimSort/releases/latest]RimSort[/url] to sort your mods
 [/list] 
 
-[url=https://steamcommunity.com/sharedfiles/filedetails/changelog/2012420113][img]https://img.shields.io/github/v/release/emipa606/FencesAndFloors?label=latest%20version&amp;style=plastic&amp;color=9f1111&amp;labelColor=black[/img][/url] | tags: reactive flooring, chainlink fencing</description>
-  <modVersion IgnoreIfNoMatchingField="True">1.6.3</modVersion>
+[url=https://steamcommunity.com/sharedfiles/filedetails/changelog/2012420113][img]https://img.shields.io/github/v/release/emipa606/FencesAndFloors?label=latest%20version&amp;style=plastic&amp;color=9f1111&amp;labelColor=black[/img][/url] | chainlink fencing, reactive flooring</description>
+  <modVersion IgnoreIfNoMatchingField="True">1.6.4</modVersion>
 </ModMetaData>

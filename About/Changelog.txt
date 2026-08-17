@@ -1,5 +1,8 @@
 # Changelog for FencesAndFloors
 
+1.6.4 - Removed the translations for the implied defs
+
+
 1.6.3 - Fixed wrong author name
 
 
