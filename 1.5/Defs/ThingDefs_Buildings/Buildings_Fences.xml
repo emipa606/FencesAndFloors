@@ -166,9 +166,6 @@
       </blueprintGraphicData>
       <ai_chillDestination>false</ai_chillDestination>
     </building>
-    <comps>
-      <li Class="CompProperties_Forbiddable" />
-    </comps>
     <damageMultipliers>
       <li>
         <damageDef>Bomb</damageDef>
@@ -228,9 +225,6 @@
       </blueprintGraphicData>
       <ai_chillDestination>false</ai_chillDestination>
     </building>
-    <comps>
-      <li Class="CompProperties_Forbiddable" />
-    </comps>
     <damageMultipliers>
       <li>
         <damageDef>Bomb</damageDef>
@@ -352,9 +346,6 @@
       </blueprintGraphicData>
       <ai_chillDestination>false</ai_chillDestination>
     </building>
-    <comps>
-      <li Class="CompProperties_Forbiddable" />
-    </comps>
     <researchPrerequisites>
       <li>Machining</li>
     </researchPrerequisites>
@@ -416,9 +407,6 @@
       </blueprintGraphicData>
       <ai_chillDestination>false</ai_chillDestination>
     </building>
-    <comps>
-      <li Class="CompProperties_Forbiddable" />
-    </comps>
     <researchPrerequisites>
       <li>Machining</li>
     </researchPrerequisites>
@@ -552,9 +540,6 @@
       </blueprintGraphicData>
       <ai_chillDestination>false</ai_chillDestination>
     </building>
-    <comps>
-      <li Class="CompProperties_Forbiddable" />
-    </comps>
     <researchPrerequisites>
       <li>Machining</li>
     </researchPrerequisites>
@@ -621,9 +606,6 @@
       </blueprintGraphicData>
       <ai_chillDestination>false</ai_chillDestination>
     </building>
-    <comps>
-      <li Class="CompProperties_Forbiddable" />
-    </comps>
     <researchPrerequisites>
       <li>Machining</li>
     </researchPrerequisites>
