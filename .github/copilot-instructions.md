@@ -1,33 +1,51 @@
-# GitHub Copilot Instructions for RimWorld Mod: Fences and Floors
+# GitHub Copilot Instructions for Fences And Floors (Continued) Mod
 
-## Mod Overview and Purpose
-The "Fences and Floors" mod enhances the construction possibilities in RimWorld by introducing new types of fences and flooring options. The primary goal is to provide players with more aesthetic and functional choices for base-building, thereby enriching the gameplay experience. By expanding the variety of construction materials and methods, players can create more unique and individualized colonies.
+## Overview and Purpose
+The "Fences And Floors (Continued)" mod revitalizes Captain Staky's original modification for RimWorld, further enhancing the gameplay with new flooring styles and fences. The mod aims to integrate seamlessly with the core game mechanics, providing players with additional construction options that imbue both aesthetic and functional enhancements to their colonies.
 
 ## Key Features and Systems
-- **Diverse Fencing Options**: Adds various types of fences that not only serve as barriers but also influence gameplay through factors like cost, durability, and beauty.
-- **Flooring Variety**: Introduces new flooring materials that offer different visual styles and benefits, enhancing both the utility and aesthetics of player bases.
-- **Enhanced Gameplay Mechanics**: Integration with pathfinding and construction cost calculations to ensure seamless gameplay and AI interaction.
+- **New Flooring Styles:** Introduces four new flooring types, each with unique attributes and purposes, including sensor panels which dynamically increase pawn movement speed.
+- **Enhanced Fencing Options:** Four distinct fences, including chainlink and high-security variants, with specific use cases such as improving defense and providing firing cover.
+- **Research Integration:** New research projects unlock advanced flooring options, integrating with RimWorld's existing technology progression system.
+- **Improved Balancing:** Version 1.21 includes a balance pass that recalibrates material and construction requirements as well as hitpoints (HP) to ensure consistency with vanilla RimWorld assets.
 
 ## Coding Patterns and Conventions
-- **Namespace Usage**: All classes related to the mod modules should be placed under a coherent namespace for organization, such as `FencesAndFloors`.
-- **Basic C# Structure**: Follow typical C# structuring with appropriate access modifiers (private, public, internal) as shown in `FencesAndFloors_Initialization` class and `PathGrid_CalculatedCostAt` static class.
-- **Static Classes and Methods**: Use static classes to encapsulate methods related to pathfinding and calculations to avoid unnecessary instantiations (e.g., `PathGrid_CalculatedCostAt`).
+- **C# Code Structure:** 
+  - Organized by features in separate files to promote readability and maintenance (e.g., `PathGrid_CalculatedCostAt.cs` for path cost handling and `FencesAndFloors_Initialization.cs` for mod initialization).
+  - Use of clear and descriptive method names, such as `MovementTicksAddOnIgnoreZero` and `Transpiler`, to convey functionality.
+  
+- **XML File Organization:** 
+  - Structured logically by feature, such as terrain, research projects, and fences, to facilitate easy navigation and modification.
+  - XML files typically contain definitions (`Defs`) that are directly integrated into RimWorld’s existing systems (e.g., `DesignationCategoryDef` and `ThingDef`).
 
 ## XML Integration
-- XML is used extensively in RimWorld modding for defining new buildings, including fences and floors.
-- XML definitions should be organized in a way that syncs with mod features, focusing on building definitions (`<ThingDef>`), graphic data, and recipes.
-- Maintain consistent naming conventions and ensure all XML tags map correctly to C# classes for behavior and property definitions.
+- **DesignationCategoryDef:** Defines new designation categories for in-game construction menus, streamlining user experience.
+- **ResearchProjectDef:** Introduces new research requirements, ensuring a progression-based unlocking of added features.
+- **TerrainDef and ThingDef:** Customizes floorings and fences with appropriate stats and properties, defining their in-game behavior and interactions.
 
 ## Harmony Patching
-- Harmony is used to patch existing game methods to extend or modify their behavior. This is crucial for integrating new pathfinding costs and construction logic without altering the base game.
-- Each patch should be well-documented within the C# files, with clear comments on the purpose and expected outcome of each Harmony patch.
-- Example: Patch `PathGrid_CalculatedCostAt` to adjust pathfinding cost calculations when new flooring is implemented.
+- **Dependencies:** This mod utilizes the Harmony library to inject additional functionality or modify existing game code without altering the base game files.
+- **Example Patch File:** `UNColony_Patch.xml` demonstrates how patches are applied to expand or adjust game mechanics, ensuring compatibility with other mods and updates.
 
 ## Suggestions for Copilot
-- **Generate Helper Functions**: Use Copilot to create additional helper functions that streamline the integration between C# logic and XML data.
-- **Automate Repetitive Code**: Use Copilot to reduce the manual workload by automating repetitive patterns, such as initialization logic for new wall types.
-- **Commenting and Documentation**: Encourage Copilot to generate inline comments and XML documentation to maintain high code readability and maintainability.
-- **XML Code Generation**: Assist in generating XML for new defenses and flooring items by suggesting base templates that align with existing conventions.
-- **Testing Assistance**: Use Copilot to draft unit tests that ensure new features function correctly within the game environment, with a focus on construction and pathfinding mechanics.
+- **Autocomplete Snippets:** When writing C# code related to mod features, Copilot can suggest snippets for typical Harmony patches or common patterns in XML definition files.
+- **Inline Documentation:** Provide comments within the C# and XML files to ensure explanations are readily available for each piece of code, aiding Copilot in generating context-aware suggestions.
+- **Conventional Naming:** Use consistent and descriptive naming across all codebases (e.g., "FAFResearchProjects") to enhance Copilot’s suggestion relevance and accuracy.
 
-By following these guidelines, developers can efficiently use GitHub Copilot to assist with the creation and maintenance of the "Fences and Floors" mod, leveraging AI to enhance coding productivity and product quality.
+By adhering to these guidelines and leveraging advanced AI tools like GitHub Copilot, developers can streamline their mod development process, ensuring consistency and integration within the vibrant modding community for RimWorld.
+
+## Project Solution Guidelines
+- Relevant mod XML files are included as Solution Items under the solution folder named XML, these can be read and modified from within the solution.
+- Use these in-solution XML files as the primary files for reference and modification.
+- The `.github/copilot-instructions.md` file is included in the solution under the `.github` solution folder, so it should be read/modified from within the solution instead of using paths outside the solution. Update this file once only, as it and the parent-path solution reference point to the same file in this workspace.
+- When making functional changes in this mod, ensure the documented features stay in sync with implementation; use the in-solution `.github` copy as the primary file.
+- In the solution is also a project called Assembly-CSharp, containing a read-only version of the decompiled game source, for reference and debugging purposes.
+- For any new documentation, update this copilot-instructions.md file rather than creating separate documentation files.
+
+
+## Hard rules (must follow)
+- Do NOT run commands that modify the repo (no git commit, git apply, dotnet format) unless explicitly asked.
+- Prefer minimal reads: read only the smallest code region needed (around the suspicious lines).
+- When mentioning SonarQube issues, automatically use the SonarQube MCP service to fetch and address issues instead of making inferred fixes without querying SonarQube first.
+- When mentioning the rimworld log, automatically use the Rimworld MCP service to fetch the log.
+

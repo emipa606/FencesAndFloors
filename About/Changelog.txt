@@ -1,5 +1,8 @@
 # Changelog for FencesAndFloors
 
+1.6.5 - Removed duplicated forbiddable comp on the gates, thanks eebette
+
+
 1.6.4 - Removed the translations for the implied defs
 
 

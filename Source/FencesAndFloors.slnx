@@ -6,4 +6,23 @@
     <BuildType Name="Release" />
   </Configurations>
   <Project Path="FencesAndFloors/FencesAndFloors.csproj" />
+  <Folder Name="/XML/1.6/Defs/DesignationCategoryDefs/">
+    <File Path="../1.6/Defs/DesignationCategoryDefs/Fences Category.xml" />
+  </Folder>
+  <Folder Name="/XML/1.6/Defs/TerrainDefs/">
+    <File Path="../1.6/Defs/TerrainDefs/Terrain_Floors.xml" />
+  </Folder>
+  <Folder Name="/XML/Patches/">
+    <File Path="../Patches/UNColony_Patch.xml" />
+    <File Path="../Patches/VanillaFences_Patch.xml" />
+  </Folder>
+  <Folder Name="/XML/About/">
+    <File Path="../About/about.xml" />
+  </Folder>
+  <Folder Name="/XML/1.6/Defs/ThingDefs_Buildings/">
+    <File Path="../1.6/Defs/ThingDefs_Buildings/Buildings_Fences.xml" />
+  </Folder>
+  <Folder Name="/XML/1.6/Defs/ResearchProjectDefs/">
+    <File Path="../1.6/Defs/ResearchProjectDefs/FAFResearchProjects.xml" />
+  </Folder>
 </Solution>
